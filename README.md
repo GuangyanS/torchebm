@@ -36,7 +36,7 @@
 <p align="center">⚡ Energy-Based Modeling library for PyTorch, offering tools for 🔬 sampling, 🧠 inference, and 📊 learning in complex distributions.</p>
 
 ![ebm_training_animation.gif](docs/assets/animations/ebm_training_animation.gif)
-
+hi
 ## What is ∇ TorchEBM 🍓? 
 
 **Energy-Based Models (EBMs)** offer a powerful and flexible framework for generative modeling by assigning an unnormalized probability (or "energy") to each data point. Lower energy corresponds to higher probability.
